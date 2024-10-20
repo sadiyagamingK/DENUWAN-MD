@@ -10,5 +10,5 @@ MONGODB: process.env.MONGODB || "",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://unitedcamps.in/Images/file_4265.jpg",
 AUTO_READ_CMD: process.env.AUTO_READ_CMD || "true",
 AUTO_BIO:"true",
-AUTO_VOICE:"true"
+OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39"
 };
